@@ -40,7 +40,7 @@ sudo apt-get install -y inotify-tools curl
 5. Put the scripts in their folders.
   * fastdl.sh - /etc/pterodactyl/fastdl.sh
   * fastdl.service - /etc/systemd/system/fastdl.service
-6. Change the values below with yours details
+6. Change the values below from (fastdl.sh) with yours details
    ```#!/bin/bash
     HOME_URL="https://node.pterodactyl.io" 
     API_KEY="YOUR_GENERATED_API_KEY"
