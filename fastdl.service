@@ -1,0 +1,13 @@
+[Unit]
+Description=Pterodactyl FastDL Daemon [Made by Scai#8477]
+After=docker.service
+
+[Service]
+User=root
+PIDFile=/run/fastdl/daemon.pid
+ExecStart=/etc/pterodactyl/fastdl.sh
+Restart=on-failure
+StartLimitInterval=600
+
+[Install]
+WantedBy=multi-user.target
