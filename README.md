@@ -4,7 +4,7 @@
 * Pterodactyl Wings 1.0
 * Pterodactyl Panel - API Key - Used to retrieve the game
 ![alt text](https://media.discordapp.net/attachments/771623753536110602/781149554044960768/unknown.png?width=1442&height=456)
-
+![text alt](https://media.discordapp.net/attachments/771623753536110602/781150522576994304/unknown.png?width=1442&height=456)
 * Web Server (LiteSpeed/Apache/Nginx or others)
 
 ## Installation
