@@ -1,5 +1,5 @@
 [Unit]
-Description=Pterodactyl FastDL Daemon [Made by Scai#8477]
+Description=Pterodactyl FastDL Daemon
 After=docker.service
 
 [Service]
