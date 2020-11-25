@@ -11,7 +11,7 @@ AppID | Game | Supported
 4000 | [Garry's Mod](http://store.steampowered.com/app/4000/) | ✅ 
 225840 | [Sven Coop](http://store.steampowered.com/app/225840/) | ✅
 
-## 
+## Support me with a coffee <3
 * If you like my work, and want to support this repository, or another repositories (or addons in the feature)
 * Paypal: thesyntaxlv5@gmail.com
 
