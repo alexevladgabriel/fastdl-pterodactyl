@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/languages/top/alexevladgabriel/fastdl-pterodactyl?label=Shell&style=flat-square)
+![](https://img.shields.io/github/license/alexevladgabriel/fastdl-pterodactyl?color=F56E41&label=License&style=flat-square)
+![](https://img.shields.io/badge/Discord-Scai%238477-0E47B3?style=flat-square)
 # FastDownload Pterodactyl v1.0
 Automatic script what detects the creation & deletion of a server, and detect if the server is a Valve Game (Source/SRCDS)
 AppID | Game | Supported
